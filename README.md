@@ -76,19 +76,6 @@ The submission file contains:
 
 The Kaggle dataset and Python virtual environment are excluded from the repository.
 
-## 🧠 Key Learnings
-
-- Exploratory Data Analysis
-- Missing-value handling
-- Numerical and categorical preprocessing
-- Log transformation
-- Gradient Boosting
-- Hyperparameter tuning
-- Holdout validation
-- 5-fold cross-validation
-- RMSLE evaluation
-- Kaggle submissions
-- Git & GitHub
 
 ## 🔗 Competition
 
